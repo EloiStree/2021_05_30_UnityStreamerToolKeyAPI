@@ -1,0 +1,2 @@
+﻿Just a reminder that if I use git or if I stream... Any information that is display more then a frame is on internet and can be use again you.
+So in this perspective, I should create a pacakge in Unity that allow to use primitive value based on an import that is external and not display.
