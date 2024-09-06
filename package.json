@@ -1,5 +1,5 @@
 {
-  "name": "be.eloistree.unitystreamertoolkeyapi",
+  "name": "be.elab.unitystreamertoolkeyapi",
   "displayName": "Unity Streamer Tool Key API",
   "version": "0.0.1",
   "unity": "2018.1",
@@ -7,13 +7,19 @@
   "description": "This toolbox is design to avoid the fucking huge fear I have when I do open source project and when I stream of leaking my keys. I was not affraid to much of that. Until I start doing cryptomoney and shit xD. If like me you don t want to lose your Ether because in an old commit you used and key to make a test and accidently pushed it... Did not happen but that my biggest fear. Feel free to use my too and to suggestion improvement. Kind regards, Eloi S.",
   "keywords": [ "Script", "Tool" ],
   "dependencies": {},
-  "relatedPackages": {},
-  "samples": [],
+  "relatedPackages": {},     
+ "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "A sample scene that demonstrates the features of this package.",
+      "path": "Scene/Demo"
+    }
+  ],
   "author": {
     "name": "Eloi Stree",
-    "mail": "streeeloi@gmail.com",
-    "url": "http://eloistree.page.link/github"
-  },
+    "mail": "",
+    "url": "https://github.com/EloiStree/"
+  },  
   "repository": {
     "type": "Git",
     "url": "https://github.com/EloiStree/2021_05_30_UnityStreamerToolKeyAPI.git",
